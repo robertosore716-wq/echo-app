@@ -1,0 +1,15 @@
+{
+  "name": "ECHO: Memory Tunnel",
+  "short_name": "ECHO",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/512.png?text=ECHO",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
